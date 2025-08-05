@@ -64,8 +64,8 @@ def list_details(directory_path: str) -> list:
 
 # Testing all tools locally
 if __name__ == "__main__":
-    print("\n>>> say_hello(\"Chelyn\")")
-    print(say_hello("Chelyn"))
+    print("\n>>> say_hello(\"\ChongJiaTao")
+    print(say_hello("ChongJiaTao"))
 
     print("\n>>> list_directory(\".\")")
     print(list_directory("."))
